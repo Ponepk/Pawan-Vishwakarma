@@ -11,10 +11,10 @@
 - 📫 How to reach me **pawanvishwakarma200114@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ponepk001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ponepk001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pawan vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan vishwakarma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pawanvishwakarm6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pawanvishwakarm6" height="30" width="40" /></a>
+<p align="left" >
+<a href="https://twitter.com/ponepk001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ponepk001" height="30" width="40"  /></a>
+<a href="https://linkedin.com/in/pawan vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan vishwakarma" height="30" width="40"  /></a>
+  <a href="https://app.netlify.com/teams/ponepk/overview" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/netlify-new-20234970.logowik.com.webp" alt="@jpone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
