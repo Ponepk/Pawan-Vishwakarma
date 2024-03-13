@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
- <p align="center" ><img  src="" alt="ponepk" height="250" width="400" /></p>
+ <p align="center" ><img  src="https://github.com/Ponepk/Ponepk/blob/main/fotor-202403132200.png" alt="ponepk" height="250" width="250" /></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75" align="right" alt="computer-boy" width="400" height="300" />
