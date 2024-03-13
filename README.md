@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
+ <p align="center" ><img  src="" alt="ponepk" height="250" width="400" /></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75" align="right" alt="computer-boy" width="400" height="300" />
@@ -6,12 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponepk&label=Profile%20views&color=0e75b6&style=flat" alt="ponepk" /> </p>
 
-- 🌱 I’m currently learning **PHP , MERN stack**
+- 🌱  **HTML/CSS/JS , REACT , PHP , MERN**
 
 - 📫 How to reach me **pawanvishwakarma200114@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" >
+<p align="left" justify="space-evenly" >
 <a href="https://twitter.com/ponepk001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ponepk001" height="30" width="40"  /></a>
 <a href="https://linkedin.com/in/pawan vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan vishwakarma" height="30" width="40"  /></a>
   <a href="https://app.netlify.com/teams/ponepk/overview" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/netlify-new-20234970.logowik.com.webp" alt="@jpone" height="30" width="40" /></a>
